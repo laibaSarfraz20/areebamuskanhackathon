@@ -1,0 +1,26 @@
+body{
+    background-image: url(image\ 33\ \(1\).png);
+}
+.navbar{
+    background-image: url(image\ 33\ \(1\).png);
+}
+.div1{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h1{
+    font-size: 70px;
+    color:#FC00FF;
+    
+}
+.year{
+    color: #00DBDE;
+}
+.btn1{
+    width: 100px;
+}
+.btn2{
+    width: 170px;
+}
